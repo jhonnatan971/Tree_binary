@@ -2,5 +2,6 @@
 
 > Aula 6
 
-Ejercicio Arbol binario
+- Ejercicio Arbol binario
+
 **ELvin Jhonnatan Acosta Vasquez**
